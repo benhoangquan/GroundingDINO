@@ -1,3 +1,10 @@
+# Env
+groundingdino_env/
+
+# Weights
+weights/
+
+
 # IDE
 .idea/
 .vscode/
